@@ -1,0 +1,4 @@
+file biodata ku buseken, file biodata mu lebokne nek folder kene.
+lek wes nek o file frame.html nek bagian (src="biodata.html">) gantien nama file biodata mu
+terus file frame.html e go live en klik kanan sembarang - open with live server
+terus file foto ku busek en, file foto mu lebokno nek folder img terus sing nek biodata mu rubahen

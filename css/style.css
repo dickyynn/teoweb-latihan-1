@@ -1,0 +1,17 @@
+.buku {
+    width : 100px;
+    vertical-align: top;
+}
+
+.judul {
+    color: blue;
+}
+
+.harga {
+    color: green;
+}
+
+.book {
+    text-align: center;
+    font-size: 50px;
+}
